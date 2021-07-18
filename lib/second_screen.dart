@@ -41,6 +41,7 @@ class _SecondScreenState extends State<SecondScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            // 주석
             Text("유진실님 안녕하세요!"),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
