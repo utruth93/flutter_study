@@ -49,7 +49,7 @@ class _SecondScreenState extends State<SecondScreen> {
                makeCustomColumn(Icons.person, "회원안내"),
                 makeCustomColumn(Icons.person, "회원안내"),
                 makeCustomColumn(Icons.person, "회원안내"),
-                makeCustomColumn(Icons.person, "회원안내")
+                makeCustomColumn(Icons.person, "회원안내") //ㄸㄷ
               ],
             )
           ],
